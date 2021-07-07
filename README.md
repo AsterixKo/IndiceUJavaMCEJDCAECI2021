@@ -12,3 +12,5 @@ Indice repaso java, programación orientado a objetos y Patrones de Diseños (Go
 * [S11 - JavaLineaDeComando](https://github.com/AsterixKo/JavaLineaDeComando) - Java ejemplo de uso de línea de comando
 * [S12 - JavaArreglos](https://github.com/AsterixKo/JavaArreglos) - Java ejemplo de uso de arreglos
 * [S13 - JavaMatrices](https://github.com/AsterixKo/JavaMatrices) - Java ejemplos de uso de matrices
+* [S14 - JavaPOO](https://github.com/AsterixKo/JavaPOO) - Java programación orientada a objetos: Clases y objetos
+* [S15 - JavaPaquetes](https://github.com/AsterixKo/JavaPaquetes) - Java programación orientada a objetos: Paquetes

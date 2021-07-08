@@ -14,3 +14,4 @@ Indice repaso java, programación orientado a objetos y Patrones de Diseños (Go
 * [S13 - JavaMatrices](https://github.com/AsterixKo/JavaMatrices) - Java ejemplos de uso de matrices
 * [S14 - JavaPOO](https://github.com/AsterixKo/JavaPOO) - Java programación orientada a objetos: Clases y objetos
 * [S15 - JavaPaquetes](https://github.com/AsterixKo/JavaPaquetes) - Java programación orientada a objetos: Paquetes
+* [S16 - JavaAppFacturas](https://github.com/AsterixKo/JavaAppFacturas) - Java programación orientada a objetos: Ejemplo facturas

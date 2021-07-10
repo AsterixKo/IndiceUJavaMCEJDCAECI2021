@@ -15,3 +15,4 @@ Indice repaso java, programación orientado a objetos y Patrones de Diseños (Go
 * [S14 - JavaPOO](https://github.com/AsterixKo/JavaPOO) - Java programación orientada a objetos: Clases y objetos
 * [S15 - JavaPaquetes](https://github.com/AsterixKo/JavaPaquetes) - Java programación orientada a objetos: Paquetes
 * [S16 - JavaAppFacturas](https://github.com/AsterixKo/JavaAppFacturas) - Java programación orientada a objetos: Ejemplo facturas
+* [S17 - JavaPOOSobrecarga](https://github.com/AsterixKo/JavaPOOSobrecarga) - Java Programación orientada a objetos: Sobrecarga de métodos
